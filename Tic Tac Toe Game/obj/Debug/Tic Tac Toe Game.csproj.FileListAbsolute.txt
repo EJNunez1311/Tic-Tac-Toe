@@ -17,3 +17,13 @@ C:\Users\Edgar\Downloads\Tic Tac Toe Game C#\Tic Tac Toe Game\Tic Tac Toe Game\o
 C:\Users\Edgar\Downloads\Tic Tac Toe Game C#\Tic Tac Toe Game\Tic Tac Toe Game\obj\Debug\Tic Tac Toe Game.csproj.CoreCompileInputs.cache
 C:\Users\Edgar\Downloads\Tic Tac Toe Game C#\Tic Tac Toe Game\Tic Tac Toe Game\obj\Debug\Tic Tac Toe Game.exe
 C:\Users\Edgar\Downloads\Tic Tac Toe Game C#\Tic Tac Toe Game\Tic Tac Toe Game\obj\Debug\Tic Tac Toe Game.pdb
+C:\Users\Edgar\Documents\GitHub\Tic Tac Toe\Tic Tac Toe Game\bin\Debug\Tic Tac Toe Game.exe
+C:\Users\Edgar\Documents\GitHub\Tic Tac Toe\Tic Tac Toe Game\bin\Debug\Tic Tac Toe Game.pdb
+C:\Users\Edgar\Documents\GitHub\Tic Tac Toe\Tic Tac Toe Game\obj\Debug\Tic Tac Toe Game.csprojAssemblyReference.cache
+C:\Users\Edgar\Documents\GitHub\Tic Tac Toe\Tic Tac Toe Game\obj\Debug\Tic_Tac_Toe_Game.Form1.resources
+C:\Users\Edgar\Documents\GitHub\Tic Tac Toe\Tic Tac Toe Game\obj\Debug\Tic_Tac_Toe_Game.Game.resources
+C:\Users\Edgar\Documents\GitHub\Tic Tac Toe\Tic Tac Toe Game\obj\Debug\Tic_Tac_Toe_Game.Properties.Resources.resources
+C:\Users\Edgar\Documents\GitHub\Tic Tac Toe\Tic Tac Toe Game\obj\Debug\Tic Tac Toe Game.csproj.GenerateResource.cache
+C:\Users\Edgar\Documents\GitHub\Tic Tac Toe\Tic Tac Toe Game\obj\Debug\Tic Tac Toe Game.csproj.CoreCompileInputs.cache
+C:\Users\Edgar\Documents\GitHub\Tic Tac Toe\Tic Tac Toe Game\obj\Debug\Tic Tac Toe Game.exe
+C:\Users\Edgar\Documents\GitHub\Tic Tac Toe\Tic Tac Toe Game\obj\Debug\Tic Tac Toe Game.pdb
