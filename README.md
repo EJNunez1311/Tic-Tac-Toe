@@ -1,5 +1,5 @@
 # Tic-Tac-Toe
-Aplicada
+# Aplicada
 Captura de como accedo a conectarme con otro jugador! Indico la IP y mi programa recibe el otro jugador accede como Host de la partida
 ![alt text](https://github.com/EJNunez1311/Tic-Tac-Toe/blob/main/Capture1.PNG)
 
